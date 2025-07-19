@@ -7,7 +7,7 @@ This project demonstrates the process of fine-tuning an open-source Large Langua
 *   **Model:** `meta-llama/Meta-Llama-3.1-8B`
 *   **Efficient Fine-Tuning:** Q-LoRA (Quantized Low-Rank Adaptation) to train the model on a single consumer-grade GPU (e.g., Google Colab T4).
 *   **Frameworks:** Hugging Face `transformers`, `peft` (Parameter-Efficient Fine-Tuning), `bitsandbytes` (for quantization), and `trl` (Transformer Reinforcement Learning for the SFTTrainer).
-*   **Monitoring:** `wandb` (Weights & Biases) for real-time tracking of training metrics and loss.
+*   **Monitoring:** `wandb` (Weights & Biases) for real-time tracking of training metrics and loss
 
 ## Setup and Installation
 
