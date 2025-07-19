@@ -1,6 +1,6 @@
 # Autonomous Deal Hunter: A Multi-Agent Framework
 
-Bu proje, internetteki RSS akışlarını otonom olarak tarayan, potansiyel ürün fırsatlarını belirleyen, bu ürünlerin değerini hibrit bir yapay zeka yaklaşımıyla tahmin eden ve önemli indirimleri kullanıcıya anlık bildirim olarak gönderen çok-ajanlı (multi-agent) bir yapay zeka sistemidir.
+Bu proje, internetteki RSS akışlarını otonom olarak tarayan, potansiyel ürün fırsatlarını belirleyen, bu ürünlerin değerini hibrit bir yapay zeka yaklaşımıyla tahmin eden ve önemli indirimleri kullanıcıya anlık bildirim olarak gönderen çok-ajanlı (multi-agent) bir yapay zeka sistemidir
 
 ## Proje Mimarisi
 
